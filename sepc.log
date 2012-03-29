@@ -1,4 +1,4 @@
-Exception encountered: #<SyntaxError: /home/rubyfin/rails_projects/sample_app/spec/models/user_spec.rb:61: syntax error, unexpected $end, expecting keyword_end>
+Exception encountered: #<SyntaxError: /home/rubyfin/rails_projects/sample_app/spec/models/user_spec.rb:28: syntax error, unexpected keyword_end, expecting $end>
 backtrace:
 /var/lib/gems/1.9.1/gems/activesupport-3.0.11/lib/active_support/dependencies.rb:235:in `load'
 /var/lib/gems/1.9.1/gems/activesupport-3.0.11/lib/active_support/dependencies.rb:235:in `block in load'
